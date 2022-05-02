@@ -20,4 +20,4 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 1 - 
 - Lezione 7: Calcolo combinatorio
 - Lezione 8: Limiti notevoli
-- Lezione 9: Successioni limitate ed infinitesime - Successioni Crescenti/Decrescenti -
+- Lezione 9: Successioni limitate ed infinitesime - Successioni Crescenti/Decrescenti - Serie Numeriche, Serie telescopiche
