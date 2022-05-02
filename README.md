@@ -14,3 +14,10 @@ Repository dedicata allo studio di analisi 1 e 2
 - [1.03 - Derivate](https://github.com/follen99/Analisi/tree/main/Appunti/1.03-Derivate)
   - [Derivate](https://github.com/follen99/Analisi/blob/main/Appunti/1.03-Derivate/Derivate%20Esercizi.pdf)
   - [Derivate Esercizi](https://github.com/follen99/Analisi/blob/main/Appunti/1.03-Derivate/Derivate.pdf)
+
+# Lezioni
+
+- Lezione 1 - 
+- Lezione 7: Calcolo combinatorio
+- Lezione 8: Limiti notevoli
+- Lezione 9: Successioni limitate ed infinitesime - Successioni Crescenti/Decrescenti -
