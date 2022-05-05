@@ -21,3 +21,5 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 7: Calcolo combinatorio
 - Lezione 8: Limiti notevoli
 - Lezione 9: Successioni limitate ed infinitesime - Successioni Crescenti/Decrescenti - Serie Numeriche, Serie telescopiche
+- Lezione 10: Serie geometrica, Serie Armonica, Serie Armonica Generalizzata
+- Lezione 11: Criteri Di Convergenza: Confronto, Infinitesimi, Rapporto, Radice.
