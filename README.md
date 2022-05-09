@@ -23,3 +23,6 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 9: Successioni limitate ed infinitesime - Successioni Crescenti/Decrescenti - Serie Numeriche, Serie telescopiche
 - Lezione 10: Serie geometrica, Serie Armonica, Serie Armonica Generalizzata
 - Lezione 11: Criteri Di Convergenza: Confronto, Infinitesimi, Rapporto, Radice.
+- Lezione 12: Continuo Criteri degli infinitesimi, Serie alternate, Criterio di Leibnitz. Fine Limiti di successioni.
+- Lezione 13: Numeri complessi, Operazioni in C, Forma trigonometrica
+- Lezione 14: esercizi numeri complessi, 
