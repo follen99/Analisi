@@ -24,5 +24,19 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 10: Serie geometrica, Serie Armonica, Serie Armonica Generalizzata
 - Lezione 11: Criteri Di Convergenza: Confronto, Infinitesimi, Rapporto, Radice.
 - Lezione 12: Continuo Criteri degli infinitesimi, Serie alternate, Criterio di Leibnitz. Fine Limiti di successioni.
-- Lezione 13: Numeri complessi, Operazioni in C, Forma trigonometrica
-- Lezione 14: esercizi numeri complessi, 
+- [Lezione 13](https://github.com/follen99/Analisi/blob/main/Appunti/1.04-Numeri%20Complessi/Lezione%2013.pdf): Numeri complessi, Operazioni in C, Forma trigonometrica
+- [Lezione 14](https://github.com/follen99/Analisi/blob/main/Appunti/1.04-Numeri%20Complessi/Lezione%2014.pdf): esercizi numeri complessi, Identità di Eulero, Prodotto e quoziente in C, Radici n-esime di numeri complessi, Eq di II grado in C
+- Lezione 15: Esercizi di riepilogo numeri complessi, Limiti di funzioni - definizioni
+- Lezione 16: Calcolo limiti di funzioni elementari, Operazioni con i limiti, Infinitesimi, Principio di sostituzione degli infinitesimi
+- Lezione 17: Infiniti, Principio di sostituzione degli infiniti, Funzioni continue, Discontinuità
+
+
+
+# Dimostrazioni
+
+## Numeri complessi
+
+- Prodotto e quoziente numeri complessi **Lezione 14 pg 3**
+- Radici n-esime di z **Lezione 14 pg 5**
+- 
+
