@@ -31,6 +31,7 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 17: Infiniti, **Principio di sostituzione degli infiniti**, Funzioni continue, Discontinuità di I e II specie
 - Lezione 18: Discontinuità di III specie, Esempi ed esercizi, **Teorema della permanenza del segno**, **Teorema degli zeri**, **I teorema di esistenza dei valori intermedi**.
 - Lezione 19: Fine limiti di funzione, Inizio Derivate, Idea generale di derivata, Significato geometrico, Definizione di retta tangente
+- Lezione 20: 
 
 
 
