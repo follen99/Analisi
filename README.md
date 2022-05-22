@@ -7,13 +7,9 @@ Repository dedicata allo studio di analisi 1 e 2
 
 ## Analisi I
 
-- [1.01 - Limiti](https://github.com/follen99/Analisi/tree/main/Appunti/1.01-Limiti)
-  - [Limiti - Esercizi](https://github.com/follen99/Analisi/blob/main/Appunti/1.01-Limiti/Limiti%20-%20Esercizi.pdf)  
-  - [Limiti Di Funzioni](https://github.com/follen99/Analisi/blob/main/Appunti/1.01-Limiti/Limiti%20Di%20Funzioni.pdf)
-- 1.02 - Successioni e serie
-- [1.03 - Derivate](https://github.com/follen99/Analisi/tree/main/Appunti/1.03-Derivate)
-  - [Derivate](https://github.com/follen99/Analisi/blob/main/Appunti/1.03-Derivate/Derivate%20Esercizi.pdf)
-  - [Derivate Esercizi](https://github.com/follen99/Analisi/blob/main/Appunti/1.03-Derivate/Derivate.pdf)
+- 1.03 - [Numeri complessi](https://github.com/follen99/Analisi/tree/main/Appunti/1.03%20-%20Numeri%20Complessi)
+- 1.04 - [Limiti di funzione](https://github.com/follen99/Analisi/tree/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni)
+- 1.05 - [Derivate](https://github.com/follen99/Analisi/tree/main/Appunti/1.05%20-%20Derivate)
 
 # Lezioni
 
@@ -26,11 +22,11 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 12: Continuo **Criteri degli infinitesimi**, Serie alternate, **Criterio di Leibnitz**. <u>Fine Limiti di successioni.</u>
 - [Lezione 13](https://github.com/follen99/Analisi/blob/main/Appunti/1.04-Numeri%20Complessi/Lezione%2013.pdf): Numeri complessi, Operazioni in C, Forma trigonometrica
 - [Lezione 14](https://github.com/follen99/Analisi/blob/main/Appunti/1.04-Numeri%20Complessi/Lezione%2014.pdf): esercizi numeri complessi, Identità di Eulero, Prodotto e quoziente in C, Radici n-esime di numeri complessi, Equazioni di II grado in C
-- Lezione 15: Esercizi di riepilogo numeri complessi, Limiti di funzioni - definizioni
-- Lezione 16: Calcolo limiti di funzioni elementari, Operazioni con i limiti, Infinitesimi, **Principio di sostituzione degli infinitesimi**
-- Lezione 17: Infiniti, **Principio di sostituzione degli infiniti**, Funzioni continue, Discontinuità di I e II specie
-- Lezione 18: Discontinuità di III specie, Esempi ed esercizi, **Teorema della permanenza del segno**, **Teorema degli zeri**, **I teorema di esistenza dei valori intermedi**.
-- Lezione 19: Fine limiti di funzione, Inizio Derivate, Idea generale di derivata, Significato geometrico, Definizione di retta tangente
+- Lezione 15: [Esercizi di riepilogo numeri complessi](https://github.com/follen99/Analisi/blob/main/Appunti/1.03%20-%20Numeri%20Complessi/Lezione%2015.pdf), [Limiti di funzioni](https://github.com/follen99/Analisi/blob/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni/Lezione%2015.pdf) - definizioni
+- [Lezione 16](https://github.com/follen99/Analisi/blob/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni/Lezione%2016.pdf): Calcolo limiti di funzioni elementari, Operazioni con i limiti, Infinitesimi, **Principio di sostituzione degli infinitesimi**
+- [Lezione 17](https://github.com/follen99/Analisi/blob/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni/Lezione%2017.pdf): Infiniti, **Principio di sostituzione degli infiniti**, Funzioni continue, Discontinuità di I e II specie
+- [Lezione 18](https://github.com/follen99/Analisi/blob/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni/Lezione%2018.pdf): Discontinuità di III specie, Esempi ed esercizi, **Teorema della permanenza del segno**, **Teorema degli zeri**, **I teorema di esistenza dei valori intermedi**.
+- Lezione 19: [Fine limiti di funzione](https://github.com/follen99/Analisi/blob/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni/Lezione%2019.pdf), [Inizio Derivate](https://github.com/follen99/Analisi/blob/main/Appunti/1.05%20-%20Derivate/Lezione%2019.pdf), Idea generale di derivata, Significato geometrico, Definizione di retta tangente
 - Lezione 20: 
 
 
