@@ -4,12 +4,14 @@ Repository dedicata allo studio di analisi 1 e 2
 # Organizzazione dei files
 
 > Le cartelle relative ad Analisi 1 iniziano con **1.x**, mentre quelle relativi ad Analisi 2 iniziano con **2.x** .
+## Ripetizione
+- Disequazioni
 
 ## Analisi I
-
 - 1.03 - [Numeri complessi](https://github.com/follen99/Analisi/tree/main/Appunti/1.03%20-%20Numeri%20Complessi)
 - 1.04 - [Limiti di funzione](https://github.com/follen99/Analisi/tree/main/Appunti/1.04%20-%20Limiti%20Di%20Funzioni)
 - 1.05 - [Derivate](https://github.com/follen99/Analisi/tree/main/Appunti/1.05%20-%20Derivate)
+- 1.06 - [Studio di funzione](https://github.com/follen99/Analisi/tree/main/Appunti/1.06%20-%20Studio%20Di%20Funzione)
 
 # Lezioni
 
@@ -31,8 +33,12 @@ Repository dedicata allo studio di analisi 1 e 2
 - [Lezione 21](https://github.com/follen99/Analisi/blob/main/Appunti/1.05%20-%20Derivate/Lezione%2021.pdf): Punti a tangente verticale, Cuspidi, Estremi relativi
 - [Lezione 22](https://github.com/follen99/Analisi/blob/main/Appunti/1.05%20-%20Derivate/Lezione%2022.pdf): Condizioni necessarie per Max/min, **Teorema di Fermat**, **Teorema di Rolle**, **Teorema di Lagrange**, Cenni sullo studio di funzione
 - [Lezione 23](https://github.com/follen99/Analisi/blob/main/Appunti/1.06%20-%20Studio%20Di%20Funzione/Lezione%2023.pdf): Asintoti, Studio di funzione con asintoti.
-- [Lezione 24](https://github.com/follen99/Analisi/blob/main/Appunti/1.06%20-%20Studio%20Di%20Funzione/Lezione%2024.pdf): ~~Prima parte della lazione inudibile~~, **Formula di Taylor**, **Teorema sulla formula di Taylor**.
+- [Lezione 24](https://github.com/follen99/Analisi/blob/main/Appunti/1.06%20-%20Studio%20Di%20Funzione/Lezione%2024.pdf): ~~Prima parte della lezione inudibile~~, **Formula di Taylor**, **Teorema sulla formula di Taylor**.
 - [Lezione 25](https://github.com/follen99/Analisi/blob/main/Appunti/1.06%20-%20Studio%20Di%20Funzione/Lezione%2025.pdf): Esempio formula di Taylor, Crescenza/Decrescenza con derivata seconda, Esempio studio di funzione con Max trovato con la derivata seconda
+- Lezione 26: Definizione di Serie, Serie di funzioni, **Serie di potenze**
+- Lezione 27: Funzione Somma, **Serie di Taylor**, **Criterio di sviluppabilità in serie di Taylor**, Serie iperboliche
+- Lezione 28: **Integrali indefiniti**
+- Lezione 29: **Integrazione per parti**, Formule di Prostaferesi, Formule di Werner, Esercizi sull'integrazione per parti, **Integrazione per sostituzione**
 
 
 
