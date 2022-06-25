@@ -6,6 +6,9 @@ Repository dedicata allo studio di analisi 1 e 2
 > Le cartelle relative ad Analisi 1 iniziano con **1.x**, mentre quelle relativi ad Analisi 2 iniziano con **2.x** .
 ## Ripetizione
 - Disequazioni
+- Logaritmi ed esponenziali
+- Scomposizione di polinomi
+- 
 
 ## Analisi I
 - 1.03 - [Numeri complessi](https://github.com/follen99/Analisi/tree/main/Appunti/1.03%20-%20Numeri%20Complessi)
@@ -14,9 +17,11 @@ Repository dedicata allo studio di analisi 1 e 2
 - 1.06 - [Studio di funzione](https://github.com/follen99/Analisi/tree/main/Appunti/1.06%20-%20Studio%20Di%20Funzione)
 
 # Lezioni
-
+## Ripassino
 - Lezione 1 - 
 - Lezione 7: Calcolo combinatorio
+
+## Analisi 1
 - Lezione 8: Limiti notevoli
 - Lezione 9: Successioni limitate ed infinitesime - Successioni Crescenti/Decrescenti - Serie Numeriche, Serie telescopiche
 - Lezione 10: Serie geometrica, Serie Armonica, Serie Armonica Generalizzata
@@ -36,10 +41,18 @@ Repository dedicata allo studio di analisi 1 e 2
 - [Lezione 24](https://github.com/follen99/Analisi/blob/main/Appunti/1.06%20-%20Studio%20Di%20Funzione/Lezione%2024.pdf): ~~Prima parte della lezione inudibile~~, **Formula di Taylor**, **Teorema sulla formula di Taylor**.
 - [Lezione 25](https://github.com/follen99/Analisi/blob/main/Appunti/1.06%20-%20Studio%20Di%20Funzione/Lezione%2025.pdf): Esempio formula di Taylor, Crescenza/Decrescenza con derivata seconda, Esempio studio di funzione con Max trovato con la derivata seconda
 - Lezione 26: Definizione di Serie, Serie di funzioni, **Serie di potenze**
-- Lezione 27: Funzione Somma, **Serie di Taylor**, **Criterio di sviluppabilità in serie di Taylor**, Serie iperboliche
+- Lezione 27: Funzione Somma, **Serie di Taylor**, **Criterio di sviluppabilità in serie di Taylor**, Serie iperboliche 
 - Lezione 28: **Integrali indefiniti**
 - Lezione 29: **Integrazione per parti**, Formule di Prostaferesi, Formule di Werner, Esercizi sull'integrazione per parti, **Integrazione per sostituzione**
+- Lezione 30: **Integrazione funzioni razionali fratte**, Esercizi, **Integrazione funzioni irrazionali**
+- Lezione 31: **Introduzione agli integrali Definiti**, "metodo degli egizi", Metodo di esaustione, Proprietà degli integrali definiti, **Teorema della media**
+- Lezione 32: **Integrali impropri** **Teorema del confronto asintotico** Fine integrali.
 
+## Analisi 2
+- Lezione 33: Introduzione alle **equazioni differenziali**, Esempi: Moto rettilineo uniforme, Moto uniformemente Accelerato, **Equazioni differenziali a variabili separabili**, 
+- Lezione 34: Esercizi su equazioni differenziali: Esercizio Eq. diff. del 1° ordine, Esercizio Problema di Cauchy. Equazioni Omogenee, Equazione di Bernoulli, **Equazioni lineari deel 2° ordine** e relativi teoremi.
+- Lezione 35: Continuo Equazioni integrali del secondo ordine, Esercizi, Equazioni differenziali del secondo ordine lineari complete, 
+ 
 
 
 # Dimostrazioni
