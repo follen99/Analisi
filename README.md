@@ -51,7 +51,8 @@ Repository dedicata allo studio di analisi 1 e 2
 ## Analisi 2
 - Lezione 33: Introduzione alle **equazioni differenziali**, Esempi: Moto rettilineo uniforme, Moto uniformemente Accelerato, **Equazioni differenziali a variabili separabili**, 
 - Lezione 34: Esercizi su equazioni differenziali: Esercizio Eq. diff. del 1° ordine, Esercizio Problema di Cauchy. Equazioni Omogenee, Equazione di Bernoulli, **Equazioni lineari deel 2° ordine** e relativi teoremi.
-- Lezione 35: Continuo Equazioni integrali del secondo ordine, Esercizi, Equazioni differenziali del secondo ordine lineari complete, 
+- Lezione 35: Continuo Equazioni integrali del secondo ordine, Esercizi, Equazioni differenziali del secondo ordine lineari complete 
+- Lezione 36: Metodo di variazione delle costanti per Equazioni differenziali complete a variabili costanti.			**Inizio Capitolo Funzioni di due variabili**,  Definizioni generali e grafico, Intorno circolare, Punti di accumulazione, intorni esterni, interni e di frontiera
  
 
 
