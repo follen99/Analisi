@@ -53,6 +53,9 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 34: Esercizi su equazioni differenziali: Esercizio Eq. diff. del 1° ordine, Esercizio Problema di Cauchy. Equazioni Omogenee, Equazione di Bernoulli, **Equazioni lineari deel 2° ordine** e relativi teoremi.
 - Lezione 35: Continuo Equazioni integrali del secondo ordine, Esercizi, Equazioni differenziali del secondo ordine lineari complete 
 - Lezione 36: Metodo di variazione delle costanti per Equazioni differenziali complete a variabili costanti.			**Inizio Capitolo Funzioni di due variabili**,  Definizioni generali e grafico, Intorno circolare, Punti di accumulazione, intorni esterni, interni e di frontiera
+- Lezione 37: Dominio o campo di esistenza di una funzione di due variabili, Curve di livello, Limiti 
+- Lezione 38: Esercizio limiti, Continuità, Derivabilità, Derivate parziali, Teorema di schwarz, Notazioni vettoriali, Gradiente, Differenziabilità -> continuità.
+- 
  
 
 
