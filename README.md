@@ -55,7 +55,7 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 36: Metodo di variazione delle costanti per Equazioni differenziali complete a variabili costanti.			**Inizio Capitolo Funzioni di due variabili**,  Definizioni generali e grafico, Intorno circolare, Punti di accumulazione, intorni esterni, interni e di frontiera
 - Lezione 37: Dominio o campo di esistenza di una funzione di due variabili, Curve di livello, Limiti 
 - Lezione 38: Esercizio limiti, Continuità, Derivabilità, Derivate parziali, Teorema di schwarz, Notazioni vettoriali, Gradiente, Differenziabilità -> continuità.
-- 
+- Lezione 39: Teorema del differenziale [quando f(x,y) continua?], Curve in R<sup>2</sup>, Equazioni parametriche, Funzioni composte, Teorema di derivazione delle funzioni di due variabili composte, Formula di Taylor, Teorema di Fermat: condizione necessaria per max/min.
  
 
 
