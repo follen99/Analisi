@@ -8,7 +8,6 @@ Repository dedicata allo studio di analisi 1 e 2
 - Disequazioni
 - Logaritmi ed esponenziali
 - Scomposizione di polinomi
-- 
 
 ## Analisi I
 - 1.03 - [Numeri complessi](https://github.com/follen99/Analisi/tree/main/Appunti/1.03%20-%20Numeri%20Complessi)
