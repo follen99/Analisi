@@ -56,14 +56,15 @@ Repository dedicata allo studio di analisi 1 e 2
 - Lezione 37: Dominio o campo di esistenza di una funzione di due variabili, Curve di livello, Limiti 
 - Lezione 38: Esercizio limiti, Continuità, Derivabilità, Derivate parziali, Teorema di schwarz, Notazioni vettoriali, Gradiente, Differenziabilità -> continuità.
 - Lezione 39: Teorema del differenziale [quando f(x,y) continua?], Curve in R<sup>2</sup>, Equazioni parametriche, Funzioni composte, Teorema di derivazione delle funzioni di due variabili composte, Formula di Taylor, Teorema di Fermat: condizione necessaria per max/min.
+- Lezione 40: Condizioni sufficienti affinché un punto sia estremo relativo, Studio dell'Hessiano
+- Lezione 41 Lunghezza di una curva, Ascissa curvilinea, Integrale curvilineo, Baricentro di una curva, Formule di riduzione (2.04)
+- Lezione 42: Esercizi di esempio integrali doppi con domini divisibili, cambiamento di variabili, Matrice jacobiana, Cambiamento in coordinate polari.
+- Lezione 43: Area di un dominio piano (significato grafico), Baricentro di un dominio
+
+## Prove di esame
+- 3.0: Prove di esame con svolgimento degli esercizi
  
 
 
-# Dimostrazioni
 
-## Numeri complessi
-
-- Prodotto e quoziente numeri complessi **Lezione 14 pg 3**
-- Radici n-esime di z **Lezione 14 pg 5**
-- 
 
